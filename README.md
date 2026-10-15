@@ -15,5 +15,5 @@ Full Stack Web Developer from Karachi, Pakistan.
 - Looking for a junior full stack developer role
 
 ## 📫 Contact
-- Email: yourname@gmail.com
+- Email: arifhashimi9090@gmail.com
 - LinkedIn: linkedin.com/in/arifhashim
