@@ -16,4 +16,4 @@ Full Stack Web Developer from Karachi, Pakistan.
 
 ## 📫 Contact
 - Email: arifhashimi9090@gmail.com
-- LinkedIn: linkedin.com/in/arifhashim
+- Portfolio: https://arif-hussain-portfolio-nine.vercel.app/
