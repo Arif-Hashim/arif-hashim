@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I convert caffeine into scalable code!
 
 ### 🌐 Portfolio
-🔗 [arif-hashim.vercel.app/portfolio](https://arif-hashim.vercel.app/portfolio)
+🔗 [arif-hashim.vercel.app/portfolio](https://arif-hussain-portfolio-nine.vercel.app/)
 
 ### 📬 Contact Me
 - 📧 arif.hashim@gmail.com
