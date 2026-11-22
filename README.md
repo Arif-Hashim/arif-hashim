@@ -1,32 +1,42 @@
-# Hi 👋, I'm Arif Hashim <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpdXp1ZWV4M3BpdXp1NTVwdWV4Y2N4MXZxeWRnd29tZnJxdnN2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfZ2lmX2lkJmN0PWc/3o7TKSjRrfIPjeiUkw/giphy.gif" width="220" />
+<h1 align="center">Hi 👋, I'm Arif Hussain</h1>
+<h3 align="center">🚀 Full Stack Web Developer (MERN Stack)</h3>
 
-### 🚀 Full Stack Developer | MERN Stack | Android Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;REST+APIs+%7C+React+%7C+Next.js" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on Web & Mobile Development Projects
-- 🌱 Learning AI & Advanced Mobile Development
-- 💬 Ask me about MERN Stack, React Native & App Architecture
-- ⚡ Fun fact: I convert caffeine into scalable code!
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-### 🌐 Portfolio
-🔗 [arif-hashim.vercel.app/portfolio](https://arif-hussain-portfolio-nine.vercel.app/)
+- 🎓 Pursuing **BS Software Engineering** at **Virtual University of Pakistan** (2024 – Present)
+- 💻 Completed **Full Stack Web Development (MERN Stack) Program** at **Nexskill, Karachi**
+- 🛠️ Hands-on experience building **Full Stack Web Applications**, **RESTful APIs**, **JWT Authentication**, and **MongoDB** database design
+- 💬 Ask me about **MERN Stack, React, Next.js, Node.js, Express.js & MongoDB**
+- 🎯 Seeking an **entry-level position** to apply my skills and grow with a team
+
+<br clear="right"/>
+
+---
 
 ### 📬 Contact Me
-- 📧 arif.hashim@gmail.com
 
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Arif-Hashim) [![StackOverflow](https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/Arif-Hashim) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Arif-Hashim)
+- 📧 [arifhashimi9090@gmail.com](mailto:arifhashimi9090@gmail.com)
 
 ---
 
 ### 🛠 Tech Stack
 
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,py,html,css" />
+</p>
+
 #### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
 #### ⚙️ Backend & Database
@@ -34,21 +44,17 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-#### ☁️ DevOps & Tools
+#### 🧰 Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github" />
-</p>
-
-#### 📱 Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arif-Hashim&show_icons=true&theme=tokyonight" height="190" />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arif-Hashim&theme=tokyonight" height="190" />
 </p>
